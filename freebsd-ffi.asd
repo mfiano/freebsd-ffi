@@ -5,8 +5,9 @@
   :homepage "https://git.mfiano.net/mfiano/freebsd-ffi"
   :version "0.1.0"
   :encoding :utf-8
-  :depends-on (#:cffi
-               #:mfiano-utils)
+  :depends-on
+  (#:cffi
+   #:mfiano-utils)
   :pathname "src"
   :serial t
   :components
