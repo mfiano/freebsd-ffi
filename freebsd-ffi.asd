@@ -2,7 +2,7 @@
   :description "A small, but growing collection of syscall and base install library FFI wrappers for FreeBSD."
   :author "Michael Fiano <mail@mfiano.net>"
   :license "BSD2"
-  :homepage "https://github.com/mfiano/freebsd-ffi"
+  :homepage "https://git.mfiano.net/mfiano/freebsd-ffi"
   :version "0.1.0"
   :encoding :utf-8
   :depends-on (#:cffi
